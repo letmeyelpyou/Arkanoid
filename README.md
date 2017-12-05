@@ -10,7 +10,7 @@ Steffen Faust
 1.00
 
 ## License
-[MIT License](Arkanoid/License)
+[MIT License](LICENSE)
 
 ## Files
 Arkanoid.html: The Source Code of the Arkanoid Game. 
