@@ -13,6 +13,7 @@ Steffen Faust
 
 ## Files
 Arkanoid.html: The Source Code of the Arkanoid Game. 
+
 Presentation.html: A different Version of the Source Code, modified for presentational purposes. 
 
 ## Using it on Windows:
