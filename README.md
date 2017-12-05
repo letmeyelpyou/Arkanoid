@@ -3,13 +3,13 @@
 ## Author
 Steffen Faust   
 
-## Veröffentlichungsdatum
+## Release Date
 05.12.2017
 
-## Versionsnummer
+## Version Number
 1.00
 
-## Lizenz
+## 
 
 ## Dateien
 Arkanoid.html: Die Datei die den Quelltext des Spiels enthält. 
