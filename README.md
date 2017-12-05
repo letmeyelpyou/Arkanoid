@@ -9,14 +9,13 @@ Steffen Faust
 ## Version Number
 1.00
 
-## 
+## License
 
-## Dateien
-Arkanoid.html: Die Datei die den Quelltext des Spiels enthält. 
-Lizenz.txt: Die Lizenz, unter welcher dieses Projekt zur Verfügung gestellt wird.
-Vorführungsbeispiel.html: Eine andere Version des Quelltextes, welche zu Anschauungszwecken modifiziert wurde.
-Readme.md: Diese Readme.
+## Files
+Arkanoid.html: The Source Code of the Arkanoid Game. 
+Presentation.html: A different Version of the Source Code, modified for presentational purposes. 
 
 ## Using it on Windows:
 All you need to run the project is access to any Browser, which has JavaScru :
 
+##Known Bugs
