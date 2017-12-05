@@ -1,4 +1,4 @@
-# Arkanoid by Steffen Faust
+Li# Arkanoid by Steffen Faust
 
 ## Author
 Steffen Faust   
@@ -10,7 +10,7 @@ Steffen Faust
 1.00
 
 ## License
-(Arkanoid/License)
+[MIT License](Arkanoid/License)
 
 ## Files
 Arkanoid.html: The Source Code of the Arkanoid Game. 
