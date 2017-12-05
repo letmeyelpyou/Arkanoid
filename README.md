@@ -1,3 +1,5 @@
+
+
 # Arkanoid by Steffen Faust
 
 ## Author
@@ -23,6 +25,8 @@ All you need to run the project is access to any Webbrowser, which supports HTML
 ## Known Bugs
 
 Hitting multiple bricks at the same time or in rapid succession can cause the collison detection to not properly handle the collisions. This may cause the ball to enter bricks or leave the screen. Hitting in between vertical or horizontal neighbouring bricks causes the ball to change both directions, when its only supposed to change one.
+
+Hitting the corner of a brick can cause the ball to move through the brick. It will still be removed.
 
 Hitting the ball with the top corners of the paddle may cause the ball to enter the paddle. It then leaves the paddle at the oppsing side.
 
