@@ -22,7 +22,15 @@ All you need to run the project is access to any Webbrowser, which supports HTML
 
 ## Known Bugs
 
-none
+Hitting multiple bricks at the same time or in rapid succession can cause the collison detection to not properly handle the collisions. This may cause the ball to enter bricks or leave the screen. Hitting in between vertical or horizontal neighbouring bricks causes the ball to change both directions, when its only supposed to change one.
+
+Hitting the ball with the top corners of the paddle may cause the ball to enter the paddle. It then leaves the paddle at the oppsing side.
+
+Low Frames per Second can cause the game to run slow, because the speed of the ball is based on the amount of frames. Setting the computer to low-energy-mode can cause this problem. 
+
+After beating the 3rd level, the player can not continue playing. This can be solved by intentionally losing the game or refreshing the page.
+
+Using "Windowed Mode" instead of "Fullscreen" causes certain parts of the game to not be shown.
 
 ## Controls
 Move Paddle Left: A or Left-Arrow-Key or move mouse to left
